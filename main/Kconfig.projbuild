@@ -170,6 +170,8 @@ choice BOARD_TYPE
         bool "征辰科技1.54(ML307)"
     config BOARD_TYPE_MINSI_K08_DUAL
         bool "敏思科技K08(DUAL)"
+    config BOARD_TYPE_ZHIYUAN_2_0TFT_BOX
+        bool "知芫 2.0寸tft 铝合金-BOX"
     config BOARD_TYPE_ESP32_S3_1_54_MUMA
         bool "Spotpear ESP32-S3-1.54-MUMA"
 endchoice
